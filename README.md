@@ -1,4 +1,4 @@
-# defis
+# Defi IA 1.1 - fire detection
 # keras-Xception
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)

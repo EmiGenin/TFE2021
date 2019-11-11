@@ -10,7 +10,9 @@ This Work was applied to fire detection
 
 <p align="center">
 
-  <img src="" alt ="fire/no fire/start fire" width="350" title="hover text">
+  <img src="https://github.com/EmiGenin/defis/blob/master/nofire.png" alt ="fire/no fire/start fire" width="350" title="hover text">
+  <img src="https://github.com/EmiGenin/defis/blob/master/startfire.png" alt ="fire/no fire/start fire" width="350" title="hover text">
+  <img src="https://github.com/EmiGenin/defis/blob/master/fire.png" alt ="fire/no fire/start fire" width="350" title="hover text">
 </p>
 
 

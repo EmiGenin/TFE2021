@@ -39,7 +39,7 @@ This Work was applied to fire detection
 ## How it works
 	#1. Download "input_classification.ipynb"
 	#2. Connect to google colab with a google account
-	#3. Clic on file, import a notebook and go to the path where it have been downloaded. You can also import the notebook by 	      entering the GitHub link
+	#3. Clic on file, import a notebook and go to the path where it have been downloaded. You can also import the notebook by entering the GitHub link
 ## Explain for other datasets
 	#1. Sort your images between the classes you want to test 
 	#2. Put each type in a folder with the name of the class  
@@ -69,6 +69,10 @@ Attention : the "input_size" have to match with what the model accepts, see at p
 	6.2 Evaluation of the number of correct classifications (informative)
 
 ```
+## How it works
+	#1. Download "Test-defiIA-1.1.ipynb"
+	#2. Connect to google colab with a google account
+	#3. Clic on file, import a notebook and go to the path where it have been downloaded. You can also import the notebook by entering the GitHub link
 ## Explain for other datasets
 	#1. Sort your images between the classes you want to test 
 	#2. Put each type in a folder with the name of the class  

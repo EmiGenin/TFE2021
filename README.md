@@ -11,8 +11,8 @@ This Work was applied to fire detection
 <p align="center">
 
   <img src="https://github.com/EmiGenin/defis/blob/master/nofire.png" alt ="fire/no fire/start fire" height="100" width="159" hspace="50" title="hover text">
-  <img src="https://github.com/EmiGenin/defis/blob/master/startfire.png" alt ="fire/no fire/start fire" height="100" width="133" title="hover text">
-  <img src="https://github.com/EmiGenin/defis/blob/master/fire.png" alt ="fire/no fire/start fire" height="100" width="144" title="hover text">
+  <img src="https://github.com/EmiGenin/defis/blob/master/startfire.png" alt ="fire/no fire/start fire" height="100" width="133" hspace="50" title="hover text">
+  <img src="https://github.com/EmiGenin/defis/blob/master/fire.png" alt ="fire/no fire/start fire" height="100" width="144" hspace="50" title="hover text">
 </p>
 
 

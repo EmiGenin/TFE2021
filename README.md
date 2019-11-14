@@ -70,7 +70,7 @@ Attention : the "input_size" have to match with what the model accepts, see at p
 
 ```
 ## How it works
-	#1. Download "Test-defiIA-1.1.ipynb"
+	#1. Download "Test-input_classification.ipynb"
 	#2. Connect to google colab with a google account
 	#3. Clic on file, import a notebook and go to the path where it have been downloaded. You can also import the notebook by entering the GitHub link
 ## Explain for other datasets

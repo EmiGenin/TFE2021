@@ -97,7 +97,8 @@ Attention : the "input_size" have to match with what the model accepts, see at p
 
 ```
 ## How it works
-	#1. Download "VideoFinal.ipynb"
+	#1. Download "VideoFinal.ipynb" at the following link :
+		https://github.com/EmiGenin/defis/releases/download/video/VideoFinal.ipynb
 	#2. Connect to google colab with a google account
 	#3. Clic on file, import a notebook and go to the path where it have been downloaded. You can also import the notebook by entering the GitHub link
 	

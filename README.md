@@ -56,7 +56,7 @@ Attention : the "input_size" have to match with what the model accepts, see at p
 ```
 ---
 
-## Quick Start to only test a model (Test-input_classification.ipynb)
+## Quick Start to test a model on pictures (Test-input_classification.ipynb)
 1. Import the libraries
 2. Downloads
 	2.1 Download the test dataset

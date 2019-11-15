@@ -81,6 +81,34 @@ Attention : the "input_size" have to match with what the model accepts, see at p
 	#5. At point 4, change the name of dataset_path	
 ```
 ---
+---
+
+## Quick Start to test a model on a video (VideoFinal.ipynb)
+1. Import the libraries
+2. Creation of the label file "classes.txt"
+3. Load the model
+4. Load the video
+5. Creation of the paths
+6. Verification that the video is correctly loaded
+7. Play video and sequencing in pictures
+8. Prediction on images
+9. Writing video from annotated images
+10. Display of the final video
+
+```
+## How it works
+	#1. Download "VideoFinal.ipynb"
+	#2. Connect to google colab with a google account
+	#3. Clic on file, import a notebook and go to the path where it have been downloaded. You can also import the notebook by entering the GitHub link
+	
+## Explain for other videos :
+	At point 4, change the link of the video to download and rename it "video.mp4"
+
+## Explain for other model
+	At point 3, change the link of the model to download and rename the model_path
+
+```
+---
 ## The test environment is
     - Python 3.6.8
     - Keras 2.2.5
